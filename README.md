@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-git clone https://github.com/maxxcodebug/vendor_lineage-priv_keys.git vendor/lineage-priv/keys
+git clone https://github.com/anshumanahirwar/vendor_lineage-priv_keys.git vendor/lineage-priv/keys
 ```
 ## Put this in your lineage_codename.mk
 ```bash
